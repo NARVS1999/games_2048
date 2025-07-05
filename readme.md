@@ -9,7 +9,7 @@ features:
 - Merge logic
 - Score tracking
 
-Demo: 
+Demo: https://narvs1999.github.io/games_2048/
 
 ![Demo Image](demo-image.png)
 
